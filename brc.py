@@ -5,6 +5,7 @@ service_options = {
 handlers = {
   'Markdown': {
     'options': {
+      'embed_images': True,
       'config': {
         'extensions': ['codehilite', 'footnotes', 'tables', 'toc'],
         'extension_configs' : {
