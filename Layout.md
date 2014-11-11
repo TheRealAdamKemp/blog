@@ -1,7 +1,7 @@
 <!-- !b
 kind: post
 service: blogger
-title: iOS Layout Gotchas and View Controller Life Cycle
+title: iOS Layout Gotchas
 url: http://blog.adamkemp.com/2014/11/ios-layout-gotchas-and-view-controller.html
 labels: mobile, ios, xamarin, layout
 blog: 6425054342484936402
